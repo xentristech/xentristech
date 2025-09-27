@@ -1,0 +1,391 @@
+
+<div align="center">
+  
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+[![Español](https://img.shields.io/badge/lang-Español-green)](README.es.md)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Xentris%20Tech&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IA%20%E2%80%A2%20Automatizaci%C3%B3n%20%E2%80%A2%20Innovaci%C3%B3n&descAlignY=52&descSize=20" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bienvenidos+al+Futuro+de+la+Tecnolog%C3%ADa+%F0%9F%9A%80;Donde+la+IA+se+Encuentra+con+la+Innovaci%C3%B3n+Humana+%F0%9F%A4%96;Construyendo+Soluciones+que+Transforman+la+Realidad+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xentristech&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas al Perfil" />
+  <img src="https://img.shields.io/github/followers/xentristech?label=Seguidores&style=for-the-badge&color=ff69b4" alt="seguidores" />
+  <img src="https://img.shields.io/github/stars/xentristech?label=Estrellas&style=for-the-badge&color=gold" alt="estrellas" />
+</div>
+
+<br/>
+
+<!-- Logo Animado -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Centro de Control
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216656956-12e1bc78-5d5f-497c-ab7f-ebcd5256ce6d.gif" width="100">
+      <h4>🧠 Soluciones IA</h4>
+      <p>Inteligencia artificial de última generación para problemas reales</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-310ce727-bdf0-44ff-80d9-e9b7e3f1f085.gif" width="100">
+      <h4>⚡ Automatización</h4>
+      <p>Optimiza procesos con automatización inteligente</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100">
+      <h4>🚀 Innovación</h4>
+      <p>Tecnología de vanguardia para los desafíos del mañana</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💫 Nuestro Arsenal Tecnológico
+
+<div align="center">
+
+### 🎨 Maestría Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,tailwind,sass,threejs,webflow&theme=dark&perline=10" />
+</p>
+
+### ⚙️ Poder Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,rust,go,java,cs,php,ruby,elixir,graphql&theme=dark&perline=10" />
+</p>
+
+### 🤖 IA y Ciencia de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,matlab,r&theme=dark&perline=10" />
+</p>
+
+### ☁️ Cloud y DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,terraform,ansible&theme=dark&perline=10" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,cassandra&theme=dark&perline=10" />
+</p>
+
+</div>
+
+---
+
+## 📊 Métricas de Rendimiento en Vivo
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xentristech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&locale=es" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xentristech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&locale=es" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xentristech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&locale=es" width="98%" />
+</div>
+
+---
+
+## 🏆 Logros Desbloqueados
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xentristech&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&locale=es" width="98%" />
+</div>
+
+---
+
+## 🌟 Proyectos Destacados
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Bot de Trading IA</h3>
+      <div align="center">
+        <a href="https://github.com/xentristech/ai-trading-bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xentristech&repo=ai-trading-bot&theme=tokyonight&hide_border=true&locale=es" alt="Bot de Trading IA"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚁 Sistema AgriDrone</h3>
+      <div align="center">
+        <a href="https://github.com/xentristech/agridrone" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xentristech&repo=agridrone&theme=tokyonight&hide_border=true&locale=es" alt="AgriDrone"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 👥 Equipo de Liderazgo
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Natalia"/>
+      <br />
+      <sub><b>Natalia</b></sub>
+      <br />
+      <sub>🎯 CEO y Visionaria</sub>
+      <br />
+      <a href="https://github.com/natalia-xentris">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Farid"/>
+      <br />
+      <sub><b>Farid Jiménez</b></sub>
+      <br />
+      <sub>📊 CIO y Estratega de Datos</sub>
+      <br />
+      <a href="https://github.com/farid-xentris">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Maykol"/>
+      <br />
+      <sub><b>Maykol</b></sub>
+      <br />
+      <sub>⚡ COO y Operaciones</sub>
+      <br />
+      <a href="https://github.com/maykol-xentris">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Orlando"/>
+      <br />
+      <sub><b>Orlando</b></sub>
+      <br />
+      <sub>💰 CFO y Finanzas</sub>
+      <br />
+      <a href="https://github.com/orlando-xentris">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💬 Testimonios de Clientes
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="33%">
+      <div align="center">
+        ⭐⭐⭐⭐⭐
+        <br/>
+        <i>"Xentris Tech transformó nuestro negocio con sus soluciones de IA."</i>
+        <br/>
+        <b>- CEO Fortune 500</b>
+      </div>
+    </td>
+    <td width="33%">
+      <div align="center">
+        ⭐⭐⭐⭐⭐
+        <br/>
+        <i>"Innovación increíble y ejecución impecable."</i>
+        <br/>
+        <b>- Fundador de Startup Tech</b>
+      </div>
+    </td>
+    <td width="33%">
+      <div align="center">
+        ⭐⭐⭐⭐⭐
+        <br/>
+        <i>"El futuro de la tecnología está aquí con Xentris."</i>
+        <br/>
+        <b>- Líder de la Industria</b>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Conéctate con Nosotros
+
+<div align="center">
+  
+<a href="https://xentris.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Sitio_Web-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
+</a>
+<a href="https://x.com/XTech7103" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="mailto:info@xentris.tech">
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+</a>
+<a href="https://www.linkedin.com/company/xentris-tech" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.gg/xentris" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Ubicación-Nueva_York,_EE.UU.-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📞_Teléfono-+1_(862)_232--8495-00D4FF?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📈 Gráfico de Contribuciones en Tiempo Real
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xentristech&custom_title=Gráfico%20de%20Contribuciones%20de%20Xentris%20Tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🔮 Enfoque Actual
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔭_Trabajando_en-Integración_IA_Cuántica-00D4FF?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌱_Aprendiendo-Web3_y_Blockchain-00D4FF?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👯_Colaborando-IA_Open_Source-00D4FF?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🤝_Buscando-Alianzas_Estratégicas-00D4FF?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📊 Desglose de Desarrollo Semanal
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   15 hrs 30 mins  ████████████░░░░  48.2%
+Python       8 hrs 45 mins   ███████░░░░░░░░░  27.2%
+React        4 hrs 20 mins   ███░░░░░░░░░░░░░  13.5%
+Docker       2 hrs 10 mins   ██░░░░░░░░░░░░░░   6.7%
+Otros        1 hr 25 mins    █░░░░░░░░░░░░░░░   4.4%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Progreso de Objetivos 2024
+
+<table>
+  <tr>
+    <td>
+      <b>🚀 Lanzar 10 Productos IA</b><br/>
+      <img src="https://img.shields.io/badge/Progreso-7%2F10-00D4FF?style=flat-square" />
+      <br/>
+      <progress value="70" max="100" style="width: 200px;"></progress>
+    </td>
+    <td>
+      <b>🌍 Expansión Global</b><br/>
+      <img src="https://img.shields.io/badge/Países-5%2F10-00D4FF?style=flat-square" />
+      <br/>
+      <progress value="50" max="100" style="width: 200px;"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>👥 Crecimiento del Equipo</b><br/>
+      <img src="https://img.shields.io/badge/Ingenieros-25%2F50-00D4FF?style=flat-square" />
+      <br/>
+      <progress value="50" max="100" style="width: 200px;"></progress>
+    </td>
+    <td>
+      <b>📚 Contribuciones Open Source</b><br/>
+      <img src="https://img.shields.io/badge/PRs-150%2F200-00D4FF?style=flat-square" />
+      <br/>
+      <progress value="75" max="100" style="width: 200px;"></progress>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Frase Dev Aleatoria
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😄 Chiste de Desarrollador del Día
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</div>
+
+<div align="center">
+  <sub>Construido con ❤️ por Xentris Tech © 2024</sub>
+</div>
