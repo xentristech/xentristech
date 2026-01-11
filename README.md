@@ -156,7 +156,7 @@
     <td align="center">
       <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Natalia"/>
       <br />
-      <sub><b>Natalia</b></sub>
+      <sub><b>Orlando Polanco</b></sub>
       <br />
       <sub>🎯 CEO & Visionary</sub>
       <br />
@@ -178,7 +178,7 @@
     <td align="center">
       <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Maykol"/>
       <br />
-      <sub><b>Maykol</b></sub>
+      <sub><b>Farid Jimenez</b></sub>
       <br />
       <sub>⚡ COO & Operations</sub>
       <br />
@@ -189,7 +189,7 @@
     <td align="center">
       <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Orlando"/>
       <br />
-      <sub><b>Orlando</b></sub>
+      <sub><b>Orlando Polanci</b></sub>
       <br />
       <sub>💰 CFO & Finance</sub>
       <br />
