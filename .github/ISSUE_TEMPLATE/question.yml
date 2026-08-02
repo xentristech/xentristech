@@ -1,0 +1,27 @@
+name: Ask us anything
+description: Ask about our services, stack or how we work. Our AI assistant replies in seconds.
+title: '[Question] '
+labels: ['question']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Our assistant answers using data from our public profile and notifies you by email.
+        For a proposal or a quote, write to **info@xentris.tech**
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: English or Spanish.
+      placeholder: 'How do you integrate an LLM into a system that is already in production?'
+    validations:
+      required: true
+
+  - type: input
+    id: context
+    attributes:
+      label: Where are you asking from? (optional)
+      placeholder: 'Operations lead at a logistics company, evaluating inventory automation'
+    validations:
+      required: false
