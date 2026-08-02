@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 104" width="620" height="104" role="img" aria-label="Pregúntanos — nuestro asistente de IA te responde en segundos">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 104" width="620" height="104" role="img" aria-label="Ask us anything — our AI assistant replies in seconds">
   <defs>
     <linearGradient id="btnFondo" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#150E26"/>
@@ -44,8 +44,8 @@
   </g>
 
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
-    <text x="76" y="47" font-size="24" font-weight="700" fill="#FAF5FF">Pregúntanos</text>
-    <text x="76" y="72" font-size="14" fill="#9C8FB5">Nuestro asistente de IA te responde en segundos · Ask us anything</text>
+    <text x="76" y="47" font-size="24" font-weight="700" fill="#FAF5FF">Ask us anything</text>
+    <text x="76" y="72" font-size="14" fill="#9C8FB5">Our AI assistant replies in seconds · English or Spanish</text>
   </g>
 
   <g stroke="#C084FC" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">

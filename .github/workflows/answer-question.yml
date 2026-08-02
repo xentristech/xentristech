@@ -1,7 +1,10 @@
-name: Responder pregunta
+name: Answer question
 
-# Contesta con IA los Issues abiertos con la plantilla "Pregunta".
-# Solo actúa sobre Issues con la etiqueta 'pregunta', que la plantilla aplica sola.
+# Replies with AI to Issues opened through the "Ask us anything" template.
+# Only acts on Issues carrying the 'question' label, which the template applies.
+#
+# Requires the OPENAI_API_KEY secret in:
+#   Settings → Secrets and variables → Actions → New repository secret
 
 on:
   issues:
@@ -12,15 +15,15 @@ permissions:
   contents: read
 
 concurrency:
-  group: pregunta-${{ github.event.issue.number }}
+  group: question-${{ github.event.issue.number }}
   cancel-in-progress: false
 
 jobs:
-  responder:
+  answer:
     runs-on: ubuntu-latest
-    # Puertas antes de gastar un token: etiqueta correcta y autor humano.
+    # Gates before spending a token: right label, human author.
     if: >-
-      contains(github.event.issue.labels.*.name, 'pregunta') &&
+      contains(github.event.issue.labels.*.name, 'question') &&
       github.event.issue.user.type != 'Bot'
     steps:
       - uses: actions/checkout@v4
@@ -29,7 +32,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generar y publicar respuesta
+      - name: Generate and post the answer
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,4 +41,4 @@ jobs:
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_BODY: ${{ github.event.issue.body }}
-        run: node scripts/responder-pregunta.mjs
+        run: node scripts/answer-question.mjs

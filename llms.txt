@@ -1,37 +1,36 @@
 # Xentris Tech (XENTRIS LLC)
 
-> Empresa de tecnología con sede en Merrick, Nueva York. Construye software a medida,
-> infraestructura cloud y DevOps, automatización con inteligencia artificial y GPTs a
-> medida, y presta consultoría de transformación digital y ciberseguridad. Atiende
-> clientes en Estados Unidos y Latinoamérica, en español e inglés. Fundada por Farid
-> Enrique Jiménez Campo. Lema: "Más que tecnología, soluciones que impulsan tu
-> crecimiento".
+> Technology company based in Merrick, New York. Builds custom software, cloud
+> infrastructure and DevOps, AI automation and custom GPTs, and provides digital
+> transformation and cybersecurity consulting. Serves clients across the United
+> States and Latin America, in English and Spanish. Founded by Farid Enrique
+> Jiménez Campo. Tagline: "Technology that moves the business, not just the roadmap".
 
-## Qué ofrece
+## What it offers
 
-- **Software a medida**: aplicaciones web y móviles construidas para la operación del cliente.
-- **Cloud y DevOps**: infraestructura, despliegue continuo y monitoreo 24/7.
-- **IA y automatización**: integración de LLMs, GPTs a medida, agentes y pipelines que eliminan trabajo manual.
-- **Transformación digital y ciberseguridad**: consultoría para modernizar sistemas existentes.
+- **Custom software**: web and mobile applications built around the client's operation.
+- **Cloud & DevOps**: infrastructure, continuous deployment and 24/7 monitoring.
+- **AI & automation**: LLM integration, custom GPTs, agents and pipelines that remove manual work.
+- **Digital transformation & cybersecurity**: consulting to modernize existing systems safely.
 
-## Páginas y perfiles
+## Pages and profiles
 
-- [Sitio corporativo](https://xentris.tech): servicios, enfoque de trabajo y contacto.
-- [GitHub de Xentris Tech](https://github.com/xentristech): proyectos públicos y herramientas open source.
-- [Farid Jiménez, fundador](https://github.com/dirafweb): perfil técnico del fundador, con asistente de IA que responde preguntas.
+- [Corporate site](https://xentris.tech): services, approach and contact.
+- [Xentris Tech on GitHub](https://github.com/xentristech): public projects and open source tools.
+- [Farid Jiménez, founder](https://github.com/dirafweb): the founder's technical profile, with an AI assistant that answers questions.
 
-## Proyectos open source
+## Open source projects
 
-- [claude-skills](https://github.com/xentristech/claude-skills): Agent Skills instalables para SEO con IA (GEO/AEO), auditoría SEO técnica, despliegue en VPS con HTTPS y auto-deploy, acceso remoto auto-reparable por Tailscale, y memoria de proyecto.
-- [inventario-ia](https://github.com/xentristech/inventario-ia): sistema de inventario para YOTA Montacargas, en TypeScript.
-- [detector-velas](https://github.com/xentristech/detector-velas): detector de patrones de velas japonesas en cripto con veredicto de IA en streaming. Next.js.
-- [tradingprogpt](https://github.com/xentristech/tradingprogpt): servidor MCP de solo lectura sobre MetaTrader 5 y Twelve Data con capa de análisis LLM. Python.
-- [carta-viva](https://github.com/xentristech/carta-viva): carta natal astrológica con chat de IA.
-- [xentris-web](https://github.com/xentristech/xentris-web): sitio corporativo bilingüe con asistente de IA.
+- [claude-skills](https://github.com/xentristech/claude-skills): installable Agent Skills for AI SEO (GEO/AEO), technical SEO audits, VPS deployment with HTTPS and auto-deploy, self-healing remote access over Tailscale, and project memory.
+- [inventario-ia](https://github.com/xentristech/inventario-ia): inventory system for YOTA Montacargas, in TypeScript.
+- [detector-velas](https://github.com/xentristech/detector-velas): Japanese candlestick pattern detector for crypto with a streaming AI verdict. Next.js.
+- [tradingprogpt](https://github.com/xentristech/tradingprogpt): read-only MCP server over MetaTrader 5 and Twelve Data with an LLM analysis layer. Python.
+- [carta-viva](https://github.com/xentristech/carta-viva): astrological natal chart with an AI chat.
+- [xentris-web](https://github.com/xentristech/xentris-web): bilingual corporate site with an AI assistant.
 
-## Contacto
+## Contact
 
 - Email: info@xentris.tech
-- Teléfono: +1 (917) 764-5565 · +1 (516) 779-0204
-- Dirección: 1501 N Meadow Rd, Merrick, NY 11566, Estados Unidos
-- Idiomas: español e inglés
+- Phone: +1 (917) 764-5565 · +1 (516) 779-0204
+- Address: 1501 N Meadow Rd, Merrick, NY 11566, United States
+- Languages: English and Spanish
