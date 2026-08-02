@@ -1,394 +1,121 @@
-
-
-<div align="center">
-  
-[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
-[![Español](https://img.shields.io/badge/lang-Español-green)](README.es.md)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Xentris%20Tech&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Innovation&descAlignY=52&descSize=20" width="100%"/>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+the+Future+of+Technology+%F0%9F%9A%80;Where+AI+Meets+Human+Innovation+%F0%9F%A4%96;Building+Solutions+That+Transform+Reality+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/xentristech/xentristech/main/assets/banner.svg" alt="Xentris Tech — Más que tecnología, soluciones que impulsan tu crecimiento. Software a medida, cloud y DevOps, IA y automatización, transformación digital y ciberseguridad. XENTRIS LLC, Merrick, New York." width="100%">
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xentristech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/xentristech?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
-  <img src="https://img.shields.io/github/stars/xentristech?label=Stars&style=for-the-badge&color=gold" alt="stars" />
-</div>
-
-<br/>
-
-<!-- Animated Logo Section -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 Mission Control
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216656956-12e1bc78-5d5f-497c-ab7f-ebcd5256ce6d.gif" width="100">
-      <h4>🧠 AI Solutions</h4>
-      <p>Next-gen artificial intelligence for real-world problems</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-310ce727-bdf0-44ff-80d9-e9b7e3f1f085.gif" width="100">
-      <h4>⚡ Automation</h4>
-      <p>Streamline processes with intelligent automation</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100">
-      <h4>🚀 Innovation</h4>
-      <p>Cutting-edge tech for tomorrow's challenges</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💫 Our Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Mastery
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,tailwind,sass,threejs,webflow&theme=dark&perline=10" />
+  <a href="https://xentris.tech"><img alt="Web" src="https://img.shields.io/badge/xentris.tech-0B0714?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:info@xentris.tech"><img alt="Email" src="https://img.shields.io/badge/info@xentris.tech-7C3AED?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://wa.me/19177645565"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p>
 
-### ⚙️ Backend Power
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,rust,go,java,cs,php,ruby,elixir,graphql&theme=dark&perline=10" />
-</p>
+---
 
-### 🤖 AI & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,matlab,r&theme=dark&perline=10" />
-</p>
+## Quiénes somos · About
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,terraform,ansible&theme=dark&perline=10" />
-</p>
+**Xentris Tech (XENTRIS LLC) es una empresa de tecnología con sede en Merrick, Nueva York, que construye software a medida, infraestructura cloud y automatización con inteligencia artificial para empresas.** Trabajamos en español e inglés, con clientes en Estados Unidos y Latinoamérica.
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,cassandra&theme=dark&perline=10" />
-</p>
+No somos un proveedor transaccional. Entregamos por fases, con resultados medibles, sobre tecnología moderna y mantenible — sin dejarte atado a nosotros.
 
-</div>
+> *Xentris Tech builds custom software, cloud infrastructure and AI automation for businesses. Phased delivery, measurable results, no vendor lock-in.*
 
 ---
 
-## 📊 Live Performance Metrics
+## Qué hacemos · What we do
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xentristech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xentristech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
-</div>
+| Área | Qué entregamos |
+|---|---|
+| **Software a medida** | Aplicaciones web y móviles construidas para tu operación, no adaptadas a la fuerza |
+| **Cloud y DevOps** | Infraestructura, despliegue continuo y monitoreo 24/7 |
+| **IA y automatización** | Integración de LLMs, GPTs a medida, agentes y pipelines que eliminan trabajo manual |
+| **Transformación digital** | Consultoría y ciberseguridad para modernizar sin romper lo que funciona |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xentristech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" width="98%" />
-</div>
-
----
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xentristech&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="98%" />
-</div>
+> [!NOTE]
+> **0 humo. Solo resultados.** Te decimos qué funciona y qué no, aunque no sea lo que quieres oír.
 
 ---
 
-## 🌟 Featured Projects
+## Trabajo en producción · Selected work
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Trading Bot</h3>
-      <div align="center">
-        <a href="https://github.com/xentristech/ai-trading-bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xentristech&repo=ai-trading-bot&theme=tokyonight&hide_border=true" alt="AI Trading Bot"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚁 AgriDrone System</h3>
-      <div align="center">
-        <a href="https://github.com/xentristech/agridrone" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xentristech&repo=agridrone&theme=tokyonight&hide_border=true" alt="AgriDrone"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+Proyectos públicos. Lo que está bajo acuerdo con clientes no aparece aquí.
 
-</div>
+| Proyecto | Qué es |
+|---|---|
+| **[claude-skills](https://github.com/xentristech/claude-skills)** | Agent Skills reutilizables: SEO con IA, despliegue en VPS con HTTPS, acceso remoto auto-reparable, memoria de proyecto |
+| **[inventario-ia](https://github.com/xentristech/inventario-ia)** | Sistema de inventario para YOTA Montacargas. TypeScript |
+| **[detector-velas](https://github.com/xentristech/detector-velas)** | Patrones de velas japonesas en cripto: TradingView + RSI, veredicto con IA en streaming. Next.js |
+| **[tradingprogpt](https://github.com/xentristech/tradingprogpt)** | Servidor MCP de solo lectura sobre MetaTrader 5 y Twelve Data, con capa de análisis LLM. Python |
+| **[carta-viva](https://github.com/xentristech/carta-viva)** | Carta natal astrológica con chat de IA para autoconocimiento |
+| **[xentris-web](https://github.com/xentristech/xentris-web)** | Nuestro sitio corporativo bilingüe. Next.js, asistente de IA con OpenAI, formulario con Resend |
 
 ---
 
-## 👥 Leadership Team
+## Open source
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Natalia"/>
-      <br />
-      <sub><b>Orlando Polanco</b></sub>
-      <br />
-      <sub>🎯 CEO & Visionary</sub>
-      <br />
-      <a href="https://github.com/natalia-xentris">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Farid"/>
-      <br />
-      <sub><b>Farid Jiménez</b></sub>
-      <br />
-      <sub>📊 CIO & Data Strategist</sub>
-      <br />
-      <a href="https://github.com/farid-xentris">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Maykol"/>
-      <br />
-      <sub><b>Farid Jimenez</b></sub>
-      <br />
-      <sub>⚡ COO & Operations</sub>
-      <br />
-      <a href="https://github.com/maykol-xentris">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/xentristech.png?size=150" width="150px" style="border-radius: 50%;" alt="Orlando"/>
-      <br />
-      <sub><b>Orlando Polanci</b></sub>
-      <br />
-      <sub>💰 CFO & Finance</sub>
-      <br />
-      <a href="https://github.com/orlando-xentris">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-  </tr>
-</table>
+Publicamos las prácticas que usamos a diario como **Agent Skills** instalables:
 
-</div>
-
----
-
-## 💬 Client Testimonials
-
-<div align="center">
-  
-<table>
-  <tr>
-    <td width="33%">
-      <div align="center">
-        ⭐⭐⭐⭐⭐
-        <br/>
-        <i>"Xentris Tech transformed our business with their AI solutions."</i>
-        <br/>
-        <b>- Fortune 500 CEO</b>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        ⭐⭐⭐⭐⭐
-        <br/>
-        <i>"Incredible innovation and flawless execution."</i>
-        <br/>
-        <b>- Tech Startup Founder</b>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        ⭐⭐⭐⭐⭐
-        <br/>
-        <i>"The future of technology is here with Xentris."</i>
-        <br/>
-        <b>- Industry Leader</b>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🌐 Connect With Us
-
-<div align="center">
-  
-<a href="https://xentris.tech" target="_blank">
-  <img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://x.com/XTech7103" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="mailto:info@xentris.tech">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/company/xentris-tech" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://discord.gg/xentris" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Location-New_York,_USA-00D4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📞_Phone-+1_(862)_232--8495-00D4FF?style=for-the-badge" />
-
-</div>
-
----
-
-## 📈 Real-time Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xentristech&custom_title=Xentris%20Tech%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
-</div>
-
----
-
-<div align="center">
-  
-### 🔮 Current Focus
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🔭_Working_on-Quantum_AI_Integration-00D4FF?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🌱_Learning-Web3_&_Blockchain-00D4FF?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/👯_Collaborating-Open_Source_AI-00D4FF?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🤝_Seeking-Strategic_Partnerships-00D4FF?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-  
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 30 mins  ████████████░░░░  48.2%
-Python       8 hrs 45 mins   ███████░░░░░░░░░  27.2%
-React        4 hrs 20 mins   ███░░░░░░░░░░░░░  13.5%
-Docker       2 hrs 10 mins   ██░░░░░░░░░░░░░░   6.7%
-Others       1 hr 25 mins    █░░░░░░░░░░░░░░░   4.4%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 2024 Goals Progress
-
-<table>
-  <tr>
-    <td>
-      <b>🚀 Launch 10 AI Products</b><br/>
-      <img src="https://img.shields.io/badge/Progress-7%2F10-00D4FF?style=flat-square" />
-      <br/>
-      <progress value="70" max="100" style="width: 200px;"></progress>
-    </td>
-    <td>
-      <b>🌍 Global Expansion</b><br/>
-      <img src="https://img.shields.io/badge/Countries-5%2F10-00D4FF?style=flat-square" />
-      <br/>
-      <progress value="50" max="100" style="width: 200px;"></progress>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>👥 Team Growth</b><br/>
-      <img src="https://img.shields.io/badge/Engineers-25%2F50-00D4FF?style=flat-square" />
-      <br/>
-      <progress value="50" max="100" style="width: 200px;"></progress>
-    </td>
-    <td>
-      <b>📚 Open Source Contributions</b><br/>
-      <img src="https://img.shields.io/badge/PRs-150%2F200-00D4FF?style=flat-square" />
-      <br/>
-      <progress value="75" max="100" style="width: 200px;"></progress>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Developer Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Xentris Tech © 2024</sub>
-</div>
+```bash
+npx skills add https://github.com/xentristech/claude-skills --all -g
 ```
 
+SEO con IA (GEO/AEO), auditoría SEO técnica, despliegue en VPS con auto-deploy, acceso remoto por Tailscale auto-reparable, hoja de vida con asistente integrado y memoria de proyecto para sesiones largas.
+
+---
+
+<details>
+<summary><strong>Stack · The stack</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,nodejs,postgres,mysql,prisma,docker,githubactions,vercel,aws,linux&theme=dark" alt="Stack: TypeScript, Next.js, React, Tailwind, Python, Node.js, PostgreSQL, MySQL, Prisma, Docker, GitHub Actions, Vercel, AWS, Linux">
+</p>
+
+| Capa | Herramientas |
+|---|---|
+| **IA** | OpenAI · Claude · Gemini · LangChain · MCP · Vercel AI SDK |
+| **Producto** | Next.js · React · TypeScript · Tailwind |
+| **Backend** | Node.js · Python · Prisma · PostgreSQL · MySQL |
+| **Infra** | Docker · Caddy · GitHub Actions · Vercel · AWS · VPS |
+| **Automatización** | Make · n8n · Webhooks |
+
+</details>
+
+<details>
+<summary><strong>Preguntas frecuentes · FAQ</strong></summary>
+
+<br>
+
+### ¿Qué es Xentris Tech?
+
+Xentris Tech es una empresa de tecnología registrada como XENTRIS LLC en Merrick, Nueva York. Desarrolla software a medida, infraestructura cloud, automatización con inteligencia artificial y consultoría de transformación digital para empresas en Estados Unidos y Latinoamérica.
+
+### ¿Qué servicios ofrece Xentris Tech?
+
+Xentris Tech trabaja en cuatro áreas: aplicaciones web y móviles a medida; infraestructura cloud y DevOps con monitoreo 24/7; integración de IA, GPTs a medida y automatización de procesos; y consultoría de transformación digital y ciberseguridad.
+
+### ¿Quién dirige Xentris Tech?
+
+Xentris Tech fue fundada por [Farid Enrique Jiménez Campo](https://github.com/dirafweb), AI Engineer, Data Scientist y Full Stack Developer basado en Barranquilla, Colombia.
+
+### ¿Xentris Tech trabaja con empresas fuera de Estados Unidos?
+
+Sí. Xentris Tech atiende clientes en Estados Unidos y Latinoamérica, en español e inglés, con equipos remotos.
+
+### ¿Cómo se contrata a Xentris Tech?
+
+Se puede contactar por correo en info@xentris.tech, por WhatsApp al +1 (917) 764-5565, o a través de su web https://xentris.tech.
+
+</details>
+
+---
+
+## Hablemos · Let's talk
+
+¿Tienes un proceso que consume horas que deberían valer más? Esa es la conversación.
+
+<p>
+  <a href="https://xentris.tech">xentris.tech</a> ·
+  <a href="mailto:info@xentris.tech">info@xentris.tech</a> ·
+  <a href="https://wa.me/19177645565">WhatsApp</a><br>
+  <sub>XENTRIS LLC · 1501 N Meadow Rd, Merrick, NY 11566 · +1 (917) 764-5565 · +1 (516) 779-0204</sub>
+</p>
