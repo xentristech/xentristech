@@ -20,6 +20,22 @@ No somos un proveedor transaccional. Entregamos por fases, con resultados medibl
 
 ---
 
+## Pregúntanos · Ask us
+
+<p align="center">
+  <a href="https://github.com/xentristech/xentristech/issues/new?template=pregunta.yml">
+    <img alt="Pregúntanos — nuestro asistente de IA te responde en segundos" src="https://raw.githubusercontent.com/xentristech/xentristech/main/assets/boton-pregunta.svg" width="620">
+  </a>
+</p>
+
+Abre una pregunta sobre nuestros servicios, nuestro stack o cómo trabajamos, y **nuestro asistente responde en segundos** con datos de [nuestro perfil público](contexto/empresa.md). Te llega por correo.
+
+No es una demo: es el mismo tipo de agente que construimos para clientes. Pruébalo antes de escribirnos.
+
+> *Ask about our services or stack — our assistant replies in seconds. It's the same kind of agent we build for clients.*
+
+---
+
 ## Qué hacemos · What we do
 
 | Área | Qué entregamos |
@@ -113,9 +129,23 @@ Se puede contactar por correo en info@xentris.tech, por WhatsApp al +1 (917) 764
 
 ¿Tienes un proceso que consume horas que deberían valer más? Esa es la conversación.
 
-<p>
-  <a href="https://xentris.tech">xentris.tech</a> ·
-  <a href="mailto:info@xentris.tech">info@xentris.tech</a> ·
-  <a href="https://wa.me/19177645565">WhatsApp</a><br>
-  <sub>XENTRIS LLC · 1501 N Meadow Rd, Merrick, NY 11566 · +1 (917) 764-5565 · +1 (516) 779-0204</sub>
-</p>
+<table>
+<tr>
+<td valign="middle" align="center">
+
+<a href="https://xentris.tech"><img alt="Sitio web" src="https://img.shields.io/badge/Sitio%20web-xentris.tech-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"></a><br>
+<a href="mailto:info@xentris.tech"><img alt="Email" src="https://img.shields.io/badge/Email-info@xentris.tech-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white"></a><br>
+<a href="https://wa.me/19177645565"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+1%20917%20764%205565-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br>
+<a href="tel:+15167790204"><img alt="Teléfono" src="https://img.shields.io/badge/Tel-+1%20516%20779%200204-475569?style=for-the-badge&logo=telegraph&logoColor=white"></a><br>
+<img alt="Ubicación" src="https://img.shields.io/badge/Merrick,%20New%20York-XENTRIS%20LLC-1E1338?style=for-the-badge&logo=googlemaps&logoColor=A855F7">
+
+</td>
+<td valign="middle" align="center">
+
+<img alt="Código QR con la tarjeta de contacto de Xentris Tech" src="https://raw.githubusercontent.com/xentristech/xentristech/main/assets/vcard-qr.svg" width="260">
+
+</td>
+</tr>
+</table>
+
+<sub><strong>XENTRIS LLC</strong> · 1501 N Meadow Rd, Merrick, NY 11566, United States · Español &amp; English</sub>

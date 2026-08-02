@@ -1,0 +1,27 @@
+name: Pregúntanos
+description: Pregunta sobre nuestros servicios, stack o forma de trabajar. Te responde nuestro asistente de IA en segundos.
+title: '[Pregunta] '
+labels: ['pregunta']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Nuestro asistente responde con datos de nuestro perfil público y te avisa por correo.
+        Para una propuesta o cotización, escríbenos a **info@xentris.tech**
+
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Tu pregunta
+      description: En español o inglés.
+      placeholder: '¿Cómo integran un LLM en un sistema que ya está en producción?'
+    validations:
+      required: true
+
+  - type: input
+    id: contexto
+    attributes:
+      label: ¿Desde dónde preguntas? (opcional)
+      placeholder: 'Operaciones en una empresa de logística, evaluando automatizar inventario'
+    validations:
+      required: false
